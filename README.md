@@ -1,2 +1,2 @@
 # Dev_AIChatbot_NLP
-I Create a voice chatbot in python using NLTK, Speech Recognition, Google (text-to-speech)& Scikit-learn
+I Create a Speech Recognition voice chatbot using python, Machine learning, NLTK, NLP, Speech Recognition, Google (text-to-speech)& Scikit-learn.
